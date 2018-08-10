@@ -1,0 +1,6 @@
+/data/
+/notebook/.ipynb_checkpoints/
+*.txt
+*.h5
+*.dict
+
