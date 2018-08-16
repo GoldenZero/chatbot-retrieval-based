@@ -3,4 +3,5 @@
 *.txt
 *.h5
 *.dict
-
+*.csv
+*.pkl
